@@ -1,21 +1,10 @@
-body {
-    width: 100vw;
-    height: 100vh;
-    background: linear-gradient(180deg, #0055ff 0%, rgb(0, 153, 255) 100%);
-    overflow: hidden;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
+ 
   nav {
     position: absolute;
     top: 0;
     left: 0;
     bottom: 0;
-    width: 300px;
+    width: 200px;
   }
   
   .background {
@@ -23,8 +12,8 @@ body {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 300px;
-    background: #fff;
+    width: 200px;
+    /* background: rgb(197, 224, 220); */
   }
   
   button {

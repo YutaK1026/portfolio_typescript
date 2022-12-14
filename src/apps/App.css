@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.home{
+  margin: 90px;
+}
+
+.title-item-list {
+  margin: auto 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.title-item{
+  margin: 10px;
+}
+.title-item-picture{
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+}
